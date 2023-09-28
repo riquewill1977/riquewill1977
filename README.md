@@ -1,4 +1,4 @@
-<h1>Hi, I'm Enrique! Aspiring Cybersecurity <br/><a href="https://github.com/riquewill1977">Analyst</a>, <a href="https://www.linkedin.com/in/enriquedwilliams/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Enrique! <br/>Aspiring<a href="https://github.com/riquewill1977">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/enriquedwilliams/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Azure / Coud Projects:</h2>
 
