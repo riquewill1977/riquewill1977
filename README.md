@@ -4,12 +4,12 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/riquewill1977/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/riquewill1977/osticket-post-install)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/riquewill1977/osticket-lifecycle)
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols) 
+  - [Configuring Active Directory within Azure VMs](https://github.com/riquewill1977/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/riquewill1977/azure-network-protocols) 
   
 - <b>Microsoft Azure / Coud Cybersecurity Projects</b>
   - [Created a Live SOC/Honeynet in Azure](https://github.com/riquewill1977/Azure-SOC-Honeynet)
