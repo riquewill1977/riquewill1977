@@ -1,8 +1,17 @@
-<h1>Hi, I'm Enrique, an IT Professional.</h1>
+<h1>Hi, I'm Enrique, an <a href"https://www.linkedin.com/in/enriquedwilliams/">IT Professional</a>.</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure / Coud Cybersecurity Projects</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/riquewill1977/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
+
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols) 
+  
+- <b>Microsoft Azure / Coud Cybersecurity Projects</b>
   - [Created a Live SOC/Honeynet in Azure](https://github.com/riquewill1977/Azure-SOC-Honeynet)
 
 
