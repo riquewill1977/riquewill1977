@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Microsoft Azure / Coud Cybersecurity Projects</b>
+- <b>Microsoft Azure / Cloud Cybersecurity Projects</b>
   - [Created a Live SOC/Honeynet in Azure](https://github.com/riquewill1977/Azure-SOC-Honeynet)
  
 - <b>Microsoft Azure</b>
